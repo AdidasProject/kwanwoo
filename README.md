@@ -3,7 +3,7 @@
 ## EDA(Exploratory Data Analysis)
 - SQL data
 
-table: row_data.csv
+table: row_data.csv  
 columns:
   - Retailer: 판매점 varchar(15)
   - Retailer_Id: 판매점 id int
