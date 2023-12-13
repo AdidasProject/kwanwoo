@@ -11,7 +11,7 @@ columns:
   - Invoice_Date: 매출 날짜 (2020~2021) date
   - Region: 지역 varchar(10)
   - State: 주 varchar(15)
-  - City: 도시 varchar(15)ㅍ
+  - City: 도시 varchar(15)
   - Product: 제품 목록 varchar(25)
   - Price_per_Unit: 개당 가격 varchar(10) ($)
   - Units_Sold: 판매 수 Int
